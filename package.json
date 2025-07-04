@@ -1,0 +1,18 @@
+{
+  "devDependencies": {
+    "@types/prismjs": "^1.26.5",
+    "markdown-it-container": "^4.0.0",
+    "vitepress": "^1.6.3"
+  },
+  "scripts": {
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "dependencies": {
+    "animate.css": "^4.1.1",
+    "codesandbox": "^2.2.3",
+    "mapbox-gl": "^3.13.0",
+    "prismjs": "^1.30.0"
+  }
+}
